@@ -6,6 +6,9 @@
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/gutshotexist)
 [![TG](https://simpleicons.org/icons/telegram.svg)](https://t.me/gvtfeelin)
+<a href="https://t.me/gvtfeelin">
+<img src="https://simpleicons.org/icons/telegram.svg" alt="TG" width="30" height="30" />
+</a>
 
 # 💻 Tech Stack:
 
